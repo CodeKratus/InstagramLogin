@@ -27,8 +27,7 @@ body{
 .left{
     display: flex;
     flex-wrap: wrap;
-
-margin-top: 50px;
+    margin-top: 50px;
     height: 700px;
     width: 500px;
     background-image: url(https://static.cdninstagram.com/rsrc.php/v3/y4/r/ItTndlZM2n2.png);
@@ -36,6 +35,26 @@ margin-top: 50px;
     background-size: 500px;
     
 }
+
+.ima{
+    position: relative;  
+    top: 30px; 
+    left:169px; 
+    height:580px; 
+    border-radius: 15px; 
+    background-color:rgba(255, 255, 255, 0);
+    display: none;
+ 
+}
+
+
+.active{
+   
+    display: inline-block;
+   
+}
+
+
 .right{
     position: relative;
     background-color: #FFFFFF;
