@@ -202,7 +202,7 @@ a , li{
 
 
 /*/////////////TABLET,PHONE/////////////////*/
-@media only screen and (max-width: 865px) {
+@media only screen and (max-width: 866px) {
     body{
         display: flex;
         flex-direction: column;
